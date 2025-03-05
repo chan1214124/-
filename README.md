@@ -13,3 +13,4 @@ system("color 0c");
 putchar('\n');
 return 0;
 }
+林朝祥到此一游
